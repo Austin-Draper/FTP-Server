@@ -9,6 +9,7 @@ Programming Language:
 	Python 2.7
 
 How to execute the program:
+	
 	1) Have Python 2.7 installed
 
 	2)
