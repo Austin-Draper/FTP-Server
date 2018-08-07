@@ -1,8 +1,8 @@
 # FTP-Server
 
 Team:
-	Austin Draper
-	John Hunsaker
+	Austin Draper, 
+	John Hunsaker, 
 	Christopher Bos
 
 Programming Language:
