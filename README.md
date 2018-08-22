@@ -1,8 +1,7 @@
 # FTP-Server
 
 Team:
-	Austin Draper, 
-	John Hunsaker, 
+	Austin Draper,  
 	Christopher Bos
 
 Programming Language:
@@ -15,6 +14,8 @@ How to execute the program:
 	2)
 		For Server:
 			in console type: "python myserver.py <port>"
+			if you have another version of python as your primary type: "py -2 myserver.py <port>" 
 
 		For Client:
 			in console type: "python myclient.py <ip-addr> <port>"
+			if you have another version of python as your primary type: "py -2 myclient.py <ip-addr> <port>" 
